@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phu Trong</h1>
-- 🔭 I’m currently working on **something cool!**
+- 🔭 I’m currently working on something cool!
 
 - 🌱 I’m currently learning **code**
 
